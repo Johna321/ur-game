@@ -1,5 +1,3 @@
-local anim = require 'anim8'
-local gamera = require 'gamera'
 local rotateRight = true
 local titleAngle = -0.5
 local timer = 0
